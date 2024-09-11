@@ -29,10 +29,10 @@ Beim erstmaligen Öffnen des CRM unter der URL [https://crm.local](https://crm.l
 
 1. Es erscheint die folgende Warnung:
 
-![[ss_error.png.png]]
+https://raw.githubusercontent.com/falkzoo/crm_handbuch/main/images/selfsigned.png
 
 2. Klicke auf **Erweitert** und dann auf „Weiter zu crm.local (unsicher)“, um fortzufahren.
 
-![[ss_error2.png.png]]
+https://raw.githubusercontent.com/falkzoo/crm_handbuch/main/images/selfsigned2.png
 
 **Hinweis**: Die Warnung erscheint, weil das Zertifikat nicht von einer vertrauenswürdigen Zertifizierungsstelle stammt, was in internen Testumgebungen üblich ist.
