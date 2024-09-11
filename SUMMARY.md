@@ -1,5 +1,5 @@
 # Summary
 
-* [Einführung](README.md)
+* [Einleitung](README.md)
 * [Vorbereitung](vorbereitung.md)
 * [Anmeldeprozess](anmeldung.md)
