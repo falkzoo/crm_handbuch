@@ -15,7 +15,7 @@ Damit das CRM unter der URL crm.local erreichbar ist, musst du die Hosts-Datei d
 192.168.178.115 crm.local
 ```
 
-Diese Anpassung leitet die Domain `crm.local` auf die interne IP-Adresse `192.168.168.115` um.
+Diese Anpassung leitet die Domain `crm.local` auf die interne IP-Adresse `192.168.178.115` um.
 
 4. Speichere die Datei. Sollte das Speichern nicht möglich sein, überprüfe, ob das Programm als Administrator läuft.
 
